@@ -13,3 +13,6 @@ Checking balance: 500.0
 === After monthlyUpdate ===
 Savings balance: 1010.0
 Checking balance: 490.0
+
+## Data Structures Implemented
+- MyStack<T>: push/pop/peek are O(1)
