@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: recursion.PowerFastTest
+Test set: sort.InsertionSortTest
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.006 s -- in recursion.PowerFastTest
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.006 s -- in sort.InsertionSortTest
