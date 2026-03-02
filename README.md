@@ -47,7 +47,8 @@ invariant for binary: “if target exists, it’s within [lo, hi]”
 Sorting
 
 bubble: best O(n) (already sorted), avg/worst O(n²), space O(1)
-insertion: best O(n), worst O(n²), space O(1)
+insertion: best O(n) (already sorted), avg/worst O(n²), space O(1)
+merge: best/avg/worst O(n log n), space O(n)
 
 
 
@@ -56,7 +57,7 @@ insertion: best O(n), worst O(n²), space O(1)
 - src/main/java/ds  → Data structures (MyStack, MyQueue, MyLinkedList)
 - src/main/java/recursion →  Recursion algorithms (FactorialRecursive, PowerFast)
 - src/main/java/search →  Search algorithms (LinearSearch,BinarySearch)
-- src/main/java/sort →  Sorting algorithms (BubbleSort,InsertionSort)
+- src/main/java/sort →  Sorting algorithms (BubbleSort,InsertionSort,MergeSort)
 - src/test/java     → JUnit tests
 - src/main/java/app → Demo runner (Main)
 
