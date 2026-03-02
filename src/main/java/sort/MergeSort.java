@@ -1,8 +1,10 @@
+package sort;
+
 import java.util.Arrays;
 
 public class MergeSort {
     public static void mergeSort(int[] arr) {
-        if (arr.length <= 1)
+        if (arr == null || arr.length <= 1)
             return;
         int[] temp = new int[arr.length];
         mergeSort(arr, temp, 0, arr.length - 1);
