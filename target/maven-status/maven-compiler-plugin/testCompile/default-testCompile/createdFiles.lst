@@ -1,8 +1,8 @@
 ds\MyQueueTest.class
 oop\AccountTypesTest.class
-oop\AccountBasicTest$DummyAccount.class
-oop\AccountBasicTest.class
 recursion\PowerFastTest.class
 ds\MyStackTest.class
-recursion\FactorialRecursiveTest.class
 ds\MyLinkedListTest.class
+oop\AccountBasicTest$DummyAccount.class
+oop\AccountBasicTest.class
+recursion\FactorialRecursiveTest.class

@@ -49,7 +49,7 @@ Sorting
 bubble: best O(n) (already sorted), avg/worst O(n²), space O(1)
 insertion: best O(n) (already sorted), avg/worst O(n²), space O(1)
 merge: best/avg/worst O(n log n), space O(n)
-
+heap: best/avg/worst O(n log n), space O(1)
 
 
 ## Project Structure
