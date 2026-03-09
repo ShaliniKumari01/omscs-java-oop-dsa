@@ -51,6 +51,7 @@ insertion: best O(n) (already sorted), avg/worst O(n²), space O(1)
 merge: best/avg/worst O(n log n), space O(n)
 heap: best/avg/worst O(n log n), space O(1)
 quick: best/avg O(n log n), worst O(n²), space O(log n)
+selection: best/avg/worst O(n²), space O(1)
 
 ## Project Structure
 - src/main/java/oop → OOP models (Account, SavingsAccount, CheckingAccount)
